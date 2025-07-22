@@ -1,6 +1,6 @@
 # C-FileMaker
 
-[**Türkçe versiyon için buraya tıklayın (Click here for the Turkish version)**](./README_tr.md)
+[**Türkçe versiyon için buraya tıklayın (Click here for the Turkish version)**](./README.tr.md)
 
 A powerful and user-friendly bulk file renaming utility built with C# WinForms and DevExpress. This application allows users to rename multiple files in a folder based on a set of flexible rules, with a live preview before applying any changes.
 
