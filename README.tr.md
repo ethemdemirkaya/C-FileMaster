@@ -1,9 +1,9 @@
-# Toplu Dosya Adı Değiştirici (C-FileMaker)
+# Toplu Dosya Adı Değiştirici (C-FileMaster)
 
 C# WinForms ve DevExpress kullanılarak geliştirilmiş, güçlü ve kullanıcı dostu bir toplu dosya yeniden adlandırma aracıdır. Bu uygulama, kullanıcıların bir klasördeki birden çok dosyayı, esnek kurallara göre ve değişiklikleri uygulamadan önce canlı önizleme ile yeniden adlandırmasına olanak tanır.
 
 
-![C-FileMaker Screenshot](Images/MainMenu.png)
+![C-FileMaster Screenshot](Images/MainMenu.png)
 
 ---
 
