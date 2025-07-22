@@ -5,7 +5,8 @@
 A powerful and user-friendly bulk file renaming utility built with C# WinForms and DevExpress. This application allows users to rename multiple files in a folder based on a set of flexible rules, with a live preview before applying any changes.
 
 
-*(Note: Replace the URL above with a real screenshot of your application)*
+![C-FileMaker Screenshot](Images/MainMenu.png)
+
 
 ---
 
@@ -46,7 +47,7 @@ A powerful and user-friendly bulk file renaming utility built with C# WinForms a
 
 ### Installation
 
-1.  Go to the [**Releases**](https://github.com/your-username/your-repo-name/releases) page.
+1.  Go to the [**Releases**](https://github.com/ethemdemirkaya/C-FileMaster/releases) page.
 2.  Download the latest `Bulk.File.Renamer.zip` file.
 3.  Extract the ZIP archive to a folder of your choice.
 4.  Run `C_FileNameChanger.exe`.
@@ -55,7 +56,7 @@ A powerful and user-friendly bulk file renaming utility built with C# WinForms a
 
 1.  Clone the repository:
     ```sh
-    git clone https://github.com/your-username/your-repo-name.git
+    git clone https://github.com/ethemdemirkaya/C-FileMaster.git
     ```
 2.  Open the `C_FileNameChanger.sln` solution file in Visual Studio.
 3.  Restore the necessary NuGet packages.

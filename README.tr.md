@@ -3,7 +3,7 @@
 C# WinForms ve DevExpress kullanılarak geliştirilmiş, güçlü ve kullanıcı dostu bir toplu dosya yeniden adlandırma aracıdır. Bu uygulama, kullanıcıların bir klasördeki birden çok dosyayı, esnek kurallara göre ve değişiklikleri uygulamadan önce canlı önizleme ile yeniden adlandırmasına olanak tanır.
 
 
-*(Not: Yukarıdaki URL'yi uygulamanızın gerçek bir ekran görüntüsü ile değiştirin)*
+![C-FileMaker Screenshot](Images/MainMenu.png)
 
 ---
 
@@ -44,7 +44,7 @@ C# WinForms ve DevExpress kullanılarak geliştirilmiş, güçlü ve kullanıcı
 
 ### Kurulum
 
-1.  [**Releases (Sürümler)**](https://github.com/your-username/your-repo-name/releases) sayfasına gidin.
+1.  [**Releases (Sürümler)**](https://github.com/ethemdemirkaya/C-FileMaster/releases) sayfasına gidin.
 2.  En son `Bulk.File.Renamer.zip` dosyasını indirin.
 3.  ZIP arşivini istediğiniz bir klasöre çıkartın.
 4.  `C_FileNameChanger.exe` dosyasını çalıştırın.
@@ -53,7 +53,7 @@ C# WinForms ve DevExpress kullanılarak geliştirilmiş, güçlü ve kullanıcı
 
 1.  Depoyu klonlayın:
     ```sh
-    git clone https://github.com/your-username/your-repo-name.git
+    git clone https://github.com/ethemdemirkaya/C-FileMaster.git
     ```
 2.  `C_FileNameChanger.sln` çözüm dosyasını Visual Studio'da açın.
 3.  Gerekli NuGet paketlerini geri yükleyin.
