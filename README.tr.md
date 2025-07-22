@@ -1,4 +1,4 @@
-# Toplu Dosya Adı Değiştirici (Bulk File Renamer)
+# Toplu Dosya Adı Değiştirici (C-FileMaker)
 
 C# WinForms ve DevExpress kullanılarak geliştirilmiş, güçlü ve kullanıcı dostu bir toplu dosya yeniden adlandırma aracıdır. Bu uygulama, kullanıcıların bir klasördeki birden çok dosyayı, esnek kurallara göre ve değişiklikleri uygulamadan önce canlı önizleme ile yeniden adlandırmasına olanak tanır.
 

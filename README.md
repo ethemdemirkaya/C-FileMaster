@@ -1,4 +1,4 @@
-# Bulk File Renamer
+# C-FileMaker
 
 [**Türkçe versiyon için buraya tıklayın (Click here for the Turkish version)**](./README_tr.md)
 
